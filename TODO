@@ -1,0 +1,4 @@
+Signal handling (unicorn)
+Gracefully manage workers (unicorn)
+Public Api/ Private Api
+Different modules for job processing (redis, starling, amqp, db)
